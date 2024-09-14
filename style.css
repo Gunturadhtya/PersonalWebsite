@@ -140,3 +140,7 @@ input[type=checkbox] {
       background-color: #4c9e9e;
     }
   }
+
+footer p{
+    text-align: center;
+}
